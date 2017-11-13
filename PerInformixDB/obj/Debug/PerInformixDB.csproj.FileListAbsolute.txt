@@ -1,0 +1,6 @@
+C:\Users\Dperezs_MTY\Documents\Visual Studio 2015\Projects\WebInformixDB\PerInformixDB\bin\Debug\PerInformixDB.dll
+C:\Users\Dperezs_MTY\Documents\Visual Studio 2015\Projects\WebInformixDB\PerInformixDB\bin\Debug\PerInformixDB.pdb
+C:\Users\Dperezs_MTY\Documents\Visual Studio 2015\Projects\WebInformixDB\PerInformixDB\bin\Debug\IBM.Data.Informix.dll
+C:\Users\Dperezs_MTY\Documents\Visual Studio 2015\Projects\WebInformixDB\PerInformixDB\obj\Debug\PerInformixDB.csprojResolveAssemblyReference.cache
+C:\Users\Dperezs_MTY\Documents\Visual Studio 2015\Projects\WebInformixDB\PerInformixDB\obj\Debug\PerInformixDB.dll
+C:\Users\Dperezs_MTY\Documents\Visual Studio 2015\Projects\WebInformixDB\PerInformixDB\obj\Debug\PerInformixDB.pdb
